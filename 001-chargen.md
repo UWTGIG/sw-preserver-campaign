@@ -5,7 +5,7 @@ All races may be augmented as below.
 
 * Humans
 * Hangons
-  * Neo Humanoid
+  * Near Humanoid
 * Grox
 * Gree (non-player race)
   * 1 preserver
