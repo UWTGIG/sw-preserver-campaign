@@ -1,7 +1,9 @@
-# Races
+# Character Generation
+## Races
+
+All races may be augmented as below.
 
 * Humans
-* Human Augments
 * Hangons
   * Neo Humanoid
 * Grox
@@ -21,7 +23,7 @@
   * Drop Outsider
   * Add "Death Wish" (cultural norm)
 
-# Race Augmentation
+### Race Augmentation
 
 Available on any race.
 
@@ -31,7 +33,7 @@ Take -2 for the Wanted (Major) edge. Build as normal or take a single power.
 
 **Take a single power:** Use the No Power Points rules on page 95.
 
-# Bonus Edges
+# Edges
 
 ## +1 Reclaimer Tech (Weird Science)
 
